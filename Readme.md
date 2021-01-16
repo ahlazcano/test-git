@@ -38,8 +38,10 @@ Para cerrar Esc  :wq!
 
     git checkout -b rama-heroes
 
-9.- para ver las ramas existentes
+#### 9.- para ver las ramas existentes
 
     git branch
 
-git checkout master
+#### 10.- para cambiarse de rama 
+
+    git checkout master
