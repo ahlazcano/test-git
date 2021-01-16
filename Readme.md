@@ -34,11 +34,12 @@ para insertar presionar i
 
 Para cerrar Esc  :wq! 
 
-#### 8.- Para crear una rama 
-
+#### 8.- Para crear una rama
+ 
+````bash
     git checkout -b rama-heroes
-
-#### 9.- para ver las ramas existentes
+````
+#### 9.- para ver las ramas existentes
 
     git branch
 
