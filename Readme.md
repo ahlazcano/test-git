@@ -6,3 +6,4 @@
 4.- git commit -m "Primer Commit"
 5.- git checkout -- .
 6.- git log
+7.- git commit --amend
