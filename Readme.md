@@ -63,4 +63,4 @@ Para cerrar Esc  :wq!
 
 #### 14. Si quieres hacer un commit a un archivo al que ya se le esta dando seguimiento, simplemente escribe:
 
-    git commit -amn "git commit -am agragado"
+    git commit -am "git commit -am agregado"
